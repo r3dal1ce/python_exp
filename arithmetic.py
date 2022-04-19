@@ -1,30 +1,3 @@
-# a = float(input('Введите первое число: '))
-# b = float(input('Введите второе число: '))
-# i = input('Що зробити?')
-
-# def just_print(a,b,i):
-#     print(a)
-#     print(b)
-#     print(i)
-
-# def arithmetic(a,b,i):
-#     c = 0
-#     if(i == '/'):
-#        c = a / b
-#        print(c)
-#     elif(i == '*'):
-#        c = a * b
-#        print(c)
-#     elif(i == '+'):
-#        c = a + b
-#        print(c)
-#     elif(i == '-'):
-#        c = a - b
-#        print(c)
-#     else:
-#         print('Неизвестная операция!')
-
-# arithmetic(a,b,i)
 arg1 = int(input())
 arg2 = int(input())
 op = input()
